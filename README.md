@@ -2,17 +2,6 @@
 
 This YouTube Clone is a responsive web application that replicates the appearance and some functionalities of the original YouTube website. It allows users to browse and watch videos, search for videos, and display a list of related videos.
 
-## Table of Contents
-
-1. [Demo](#demo)
-2. [Features](#features)
-3. [Prerequisites](#prerequisites)
-4. [Getting Started](#getting-started)
-5. [Folder Structure](#folder-structure)
-6. [HTML Structure](#html-structure)
-7. [Styling with CSS and Bootstrap](#styling-with-css-and-bootstrap)
-8. [Implementing JavaScript](#implementing-javascript)
-
 ## Features
 
 - Browse and watch videos.
